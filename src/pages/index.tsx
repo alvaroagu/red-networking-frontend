@@ -19,7 +19,7 @@ export default function Home() {
       <main className="grid grid-cols-1 place-items-center h-full">
         <h2 className="">Bienvenidos al repositorio!</h2>
         {
-          <h1 className="text-4xl">H</h1> 
+          <h1 className="text-4xl">Ho</h1> 
         }
         <h1 className="text-4xl"></h1> 
       </main>
